@@ -1,0 +1,10 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor/tooling
+.claude/
+
+# Pre-redesign backups and archived assets (kept locally, not needed in the repo)
+backup_original/
+images/_unused_after_redesign/
